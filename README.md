@@ -15,8 +15,6 @@
 
 - 👨‍💻 **All of my projects are available at** <a href="https://github.com/dmt-100?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
 
-- 💞️ **I’m Always looking forward to collaborate on projects**
-
 - 💻 **I’m Dedicated to Work and seeking Experiences**
 
 - ⛳️ **My 2024 Goal is Mastering** <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
@@ -25,8 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/dmt-100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dmt-100" height="30" width="40" /></a>
+<a href="https://wa.me/qr/CXEDY7JKRFQYA1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="dmt100" height="30" width="40" /></a>
 <a href="https://discord.gg/dmt100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dmt100" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dmt-100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dmt-100" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

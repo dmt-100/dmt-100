@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/89C5y2C/devops-tools.png)]
+![MasterHead](https://svgshare.com/i/12Cy.svg)]
 
 <h1 align="center">Hi 👋, I'm Dmitriy Rovensky</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
@@ -19,6 +19,7 @@
 
 - ⛳️ **My 2024 Goal is Mastering** <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 
+- ⚡ **Fun fact I think I am not an Alien 👽**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,3 +49,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmt-100&show_icons=true&locale=en" alt="dmt-100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmt-100&" alt="dmt-100" /></p>
+
+
+

@@ -1,5 +1,3 @@
-![MasterHead](https://svgshare.com/i/12Cy.svg)]
-
 <h1 align="center">Hi 👋, I'm Dmitriy Rovensky</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
